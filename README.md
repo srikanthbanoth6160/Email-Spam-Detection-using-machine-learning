@@ -13,12 +13,6 @@ A machine learning project to classify emails as **spam** or **ham** (not spam) 
 - **Source:** Publicly available spam dataset (e.g., SMS Spam Collection, Enron emails)  
 - **Preprocessing:** Stopword removal, stemming, and TF-IDF vectorization  
 
-## 📊 Results  
-| Model                | Accuracy | Precision | Recall | F1-score |  
-|----------------------|----------|----------|--------|----------|  
-| Logistic Regression | XX%      | XX%      | XX%    | XX%      |  
-| Naive Bayes        | XX%      | XX%      | XX%    | XX%      |  
-| SVM (Linear)       | XX%      | XX%      | XX%    | XX%      |  
 
 ## 📌 Future Improvements  
 - Hyperparameter tuning for better accuracy  
